@@ -1,0 +1,13 @@
+table{
+
+    margin: 0 auto;;
+}
+
+table, tr, div{
+
+text-align: center;
+}
+
+table, tr, td{
+    text-align: center;
+}
